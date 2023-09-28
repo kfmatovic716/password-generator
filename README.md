@@ -1,5 +1,5 @@
 # Password Generator
-<a href="#">View the Deployed Site</a>
+<a href="https://kfmatovic716.github.io/password-generator/">View the Deployed Site</a>
 
 
 <img src="assets/images/pwgen.png" width=100% alt="site">
