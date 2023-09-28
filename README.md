@@ -1,8 +1,10 @@
 # Password Generator
 <a href="#">View the Deployed Site</a>
-<a href="#">View the Repository</a>
 
-<img src="#" width=100% alt="site">
+
+<img src="assets/images/pwgen.png" width=100% alt="site">
+<br>
+<br>
 
 | Technology Used         | Resource URL           | 
 | ------------- |:-------------:| 
@@ -12,7 +14,7 @@
 | Git | [https://git-scm.com/](https://git-scm.com/)     |    
 
 ## Description
-
+This application is useful for an employee to generate random password based on criteria they've selected. It runs in browser and features dynamically updated HTML and CSS powered by JavaScript codes. It has responsive user interface that ensures multiple screen size viewpoints. The password include special characters, see list in [OWASP Foundation.](https://owasp.org/www-community/password-special-characters)
 
 ## Acceptance Criterias
 * When generate button is clicked then presented with a series of prompts for password criteria
@@ -24,6 +26,11 @@
 * When the password is generated, the password is either displayed in an alert or written to the page
 
 # Learning Points
+* Learned to work with Javacript data structures, functions, arrays, operators,conditional loops like for, while, if statements and the use of some basic methods
+* Tested how each of these topics work by printing out results via console.log
+* Tried to write pseudocode to get an idea of how to structure code
+* Learned new way of converting data -> spread operator (...) to turn any string into an array of single-characters
+* Enhanced skill at Google-Fu -> learned to think about more specific prompting search in order to get better results
 
 
 
